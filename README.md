@@ -1,4 +1,6 @@
-<img src="https://matrixo.in/logos/logo-dark.png" width="100%" alt="matriXO Logo Dark"/>
+<div align="center">
+    <img src="https://matrixo.in/logos/logo-dark.png" width="30%" alt="matriXO Logo Dark"/>
+</div>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Developer Animation"/>
 
 # matriXO – Web Development Internship
